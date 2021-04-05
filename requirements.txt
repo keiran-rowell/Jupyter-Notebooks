@@ -4,7 +4,7 @@ bezier==2021.2.12
 ChemSpiPy==1.0.5
 ipython==6.4.0
 ipython-genutils==0.2.0
-jupyter-client==5.2.3
+jupyter-client==6.1.10
 jupyter-console==5.2.0
 jupyter-contrib-core==0.3.3
 jupyter-contrib-nbextensions==0.5.0
