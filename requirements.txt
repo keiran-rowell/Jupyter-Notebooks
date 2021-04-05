@@ -5,7 +5,7 @@ ChemSpiPy
 ipython
 ipython-genutils
 jupyter-client
-jupyter-consol
+jupyter-console
 jupyter-contrib-core
 jupyter-contrib-nbextensions
 jupyter-core
